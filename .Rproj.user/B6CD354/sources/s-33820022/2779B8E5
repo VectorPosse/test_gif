@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550533488187.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1888872802",
+    "id" : "2779B8E5",
+    "lastKnownWriteTime" : 1550533501,
+    "last_content_update" : 1550533501619,
+    "path" : "~/test_git/test_file.txt",
+    "project_path" : "test_file.txt",
+    "properties" : {
+        "cursorPosition" : "0,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
